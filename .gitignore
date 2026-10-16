@@ -13,6 +13,10 @@ venv/
 .idea/
 .vscode/
 
-# Coverage
-# htmlcov/
+# macOS
+.DS_Store
+
+# Служебные файлы pytest-cov
 .coverage
+.coverage.*
+coverage.xml
