@@ -29,3 +29,10 @@ class Data:
     FILLING_1_PRICE = 100
     FILLING_2_PRICE = 200
     FILLING_3_PRICE = 300
+
+    # данные для тестирования названий булок
+    BUN_NAMES = [BUN_1, BUN_2, BUN_3]
+
+    # данные для тестирования цен булок
+    BUN_PRICES = [BUN_1_PRICE, BUN_2_PRICE, BUN_3_PRICE]
+    
